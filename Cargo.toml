@@ -1,6 +1,14 @@
 [package]
 name = "rueue"
-version = "0.1.0"
+version = "0.0.0"
 edition = "2024"
-
-[dependencies]
+license = "MIT" 
+authors = ["myyrakle <sssang97@naver.com>"] 
+description = "ready" 
+keywords = [] 
+include = ["src/*", "Cargo.toml"]
+exclude = []
+readme = "README.md" 
+repository = "https://github.com/myyrakle/rueue"
+documentation = "https://github.com/myyrakle/rueue/blob/master/README.md"
+homepage = "https://github.com/myyrakle/rueue/blob/master/README.md"
